@@ -51,20 +51,5 @@ const styles = StyleSheet.create({
     backgroundColor:'white',
     opacity:0.5
   },
-  buttonregist:{
-    marginTop:50,
-    borderWidth:1,
-    borderColor:'white',
-    borderRadius:7,
-    backgroundColor: 'blue',
-    height:45,
-    alignItems:'center',
-    justifyContent:'center',
-    width:170
-  },
-  textbutton:{
-    fontSize:20,
-    color:'white',
-    fontWeight:'bold'
-  }
+  
 })
